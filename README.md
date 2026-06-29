@@ -8,19 +8,13 @@
 
 <img align="right" width="350" src="https://raw.githubusercontent.com/AISoltani/AISoltani/main/.github/workflows/as2.gif" />
 
-<table>
-  <tr>
-    <td>
-      <ul>
-        <li>Machine Learning, Computer Vision & Deep Learning</li>
-        <li>Object Detection, Segmentation & Tracking</li>
-        <li>Vision-Language Models (VLMs)</li>
-        <li>Healthcare AI Solutions</li>
-        <li>Large Language Models (LLMs) & Generative AI</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+*   **Machine Learning, Computer Vision & Deep Learning** — Advanced CNN/Transformer architectures and deep feature extraction.
+*   **Object Detection, Segmentation & Tracking** — Implementing state-of-the-art models (YOLO, DETR, SAM).
+*   **Vision-Language Models (VLMs)** — Multimodal integration bridging vision and language semantics.
+*   **Healthcare AI Solutions** — CAD systems, including **Tuberculosis Bounding Box localization** and **SCI Q1 Skin Cancer Classification research**.
+*   **Large Language Models (LLMs) & Generative AI** — Engineering **RAG (Retrieval-Augmented Generation)** systems and intelligent AI agents.
+
+<br/>
 
 <h2 font-weight="bold">🏅 Strengths Skills 🎩</h2>
 
