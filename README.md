@@ -5,17 +5,6 @@
 
 <img align="right" width="350" src="https://raw.githubusercontent.com/AISoltani/AISoltani/main/.github/workflows/as2.gif" />
 <p>
-Have you not heard? The LORD is the everlasting God, the Creator of the ends of the earth. He will not grow tired or weary, and his understanding no one can fathom. He gives strength to the weary and increases the power of the weak.
-
-Well, AI is beautiful and The Art of Using It Is More Beautiful.
-Together, let's shape a AI landscape that radiates with wonder and awe!
-</p>
-
-<h1 font-weight="bold">
-  🌟 Skills & Expertise Area  
-<img align="right" width="350" src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/deweloper.gif" />
-</h1>
-<p>
 Knowledge is not skill. Knowledge plus ten thousand hours is skill. Go ahead, The future belongs to those who learn more skills and combine them in creative ways😉.
 </p>
 <table>
@@ -26,7 +15,7 @@ Knowledge is not skill. Knowledge plus ten thousand hours is skill. Go ahead, Th
         <li>Object Detection, Segmentation & Tracking</li>
         <li>Vision-Language Models (VLMs)</li>
         <li>Healthcare AI Solutions</li>
-        <li>Real-Time Computer Vision Systems</li>
+        <li>Large Language Models (LLMs) & Generative AI</li>
       </ul>
     </td>
   </tr>
@@ -187,27 +176,4 @@ Knowledge is not skill. Knowledge plus ten thousand hours is skill. Go ahead, Th
 <h3>🧰️ Real-Time Colormap-Invariant Thermal Object Detection with a Hybrid YOLO–Transformer </h3>  
 <p align="center">
   <img src="https://github.com/AISoltani/labelbox/blob/master/Thermal-DT.gif?raw=true" width="78%" >
-</p>
-
-<h1 font-weight="bold">
-  📮 How to reach me
-  <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100" />
-</h1>
-<div style="display: inline_block"><br>
-  <img align="right" alt="Eren-pic" height="200" style="border-radius:50px;"
-    src="https://raw.githubusercontent.com/ByErenOzer/ByErenOzer/main/avatar.png">
- </div>
-<p align='center'>
-  <a href="mailto:erenfb199908@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-   <a href="https://www.linkedin.com/in/ByErenOzer/">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://www.kaggle.com/erenozer" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-0078d4?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle">
-  </a>
-  <a href="https://x.com/ByErenOzer" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X">
-  </a>
 </p>
