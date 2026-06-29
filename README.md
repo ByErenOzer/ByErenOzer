@@ -7,9 +7,7 @@
 <h1>💫 About Me:</h1>
 
 <img align="right" width="350" src="https://raw.githubusercontent.com/AISoltani/AISoltani/main/.github/workflows/as2.gif" />
-<p>
-Knowledge is not skill. Knowledge plus ten thousand hours is skill. Go ahead, The future belongs to those who learn more skills and combine them in creative ways😉.
-</p>
+
 <table>
   <tr>
     <td>
