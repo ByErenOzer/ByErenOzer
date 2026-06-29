@@ -10,7 +10,6 @@
 
 *   **Machine Learning, Computer Vision & Deep Learning** — Advanced CNN/Transformer architectures and deep feature extraction.
 *   **Object Detection, Segmentation & Tracking** — Implementing state-of-the-art models (YOLO, DETR, SAM).
-*   **Vision-Language Models (VLMs)** — Multimodal integration bridging vision and language semantics.
 *   **Healthcare AI Solutions** — CAD systems, including **Tuberculosis Bounding Box localization** and **SCI Q1 Skin Cancer Classification research**.
 *   **Large Language Models (LLMs) & Generative AI** — Engineering **RAG (Retrieval-Augmented Generation)** systems and intelligent AI agents.
 
