@@ -1,5 +1,8 @@
 <h2 align="center" font-weight="bold">
-🔭 I Am Passionate About Breaking Down The Limitations of Object Detection & Segmentation <br>🤝 Open to innovative collaborations and challenging AI projects<br>🌱 Actively Exploring State‑of‑The‑Art Models Like YOLO Variants, DETR, and Transformer‑Based Segmentation to Advance Deep Feature Extraction<br>💬 Ask me about ML, Machine Vision, Deep Learning or Pattern Recognition<br>⚡
+🔭 Building High-Performance Computer Vision and Deep Learning Systems <br>
+🤝 Open to Collaborations on Advanced AI and Medical Image Analysis Research <br>
+🌱 Actively Exploring State-of-the-Art Deep Learning Models and Transformer-Based Segmentation <br>
+🤖 Engineering Local LLM Deployments, RAG Systems, and Intelligent AI Agents <br>
 </h2>
 <h1>💫 About Me:</h1>
 
@@ -86,11 +89,10 @@ Knowledge is not skill. Knowledge plus ten thousand hours is skill. Go ahead, Th
     <img height='25em' src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" />
     <img height='25em' src="https://img.shields.io/badge/openapiinitiative-%23000000.svg?style=for-the-badge&logo=openapiinitiative&logoColor=white" />
     <img height='25em' src="https://custom-icon-badges.demolab.com/badge/comet%20ml-262c3e?style=for-the-badge&logo=logo_comet_ml&logoColor=white" />
-    <img height='25em' src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-    <img height='25em' src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white" />
-    <img height='25em' src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-    <img height='25em' src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white" />
-    <img height='25em' src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
+    <img height='25em' src="https://img.shields.io/badge/LM%20Studio-000000?style=for-the-badge&logoColor=white" />
+    <img height='25em' src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
+    <img height='25em' src="https://img.shields.io/badge/vLLM-orange?style=for-the-badge&logoColor=white" />
+    <img height='25em' src="https://img.shields.io/badge/LangChain-1C3C3A?style=for-the-badge&logo=langchain&logoColor=white" />
   </p>
 
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=ByErenOzer.ByErenOzer" />
