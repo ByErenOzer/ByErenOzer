@@ -120,7 +120,7 @@
   <img src="https://raw.githubusercontent.com/ByErenOzer/Tuberkloz_Tespiti/main/image%20copy%202.png" width="28%">
 </p>
 
-<h3>🏆 SCI Q1 Medical Research Publication: Enhancing multi-class skin lesion diagnosis through ensemble learning of CNN and transformer architectures (Paper Link: <a href="https://www.sciencedirect.com/science/article/pii/S2215098625002009?via%3Dihub" target="_blank">ScienceDirect</a> | DOI: <a href="https://doi.org/10.1016/j.jestch.2025.102009" target="_blank">10.1016/j.jestch.2025.102009</a>)</h3>  
+<h3>🏆 SCI Q1 Medical Research Publication: Enhancing multi-class skin lesion diagnosis through ensemble learning of CNN and transformer architectures <br/> (Paper Link: <a href="https://www.sciencedirect.com/science/article/pii/S2215098625002009?via%3Dihub" target="_blank">ScienceDirect</a> | DOI: <a href="https://doi.org/10.1016/j.jestch.2025.102009" target="_blank">10.1016/j.jestch.2025.102009</a>)</h3>  
 <p align="center">
   <img src="https://raw.githubusercontent.com/ByErenOzer/ByErenOzer/main/image_copy_6.png" width="80%">
 </p>
