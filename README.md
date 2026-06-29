@@ -120,6 +120,18 @@
   <img src="https://raw.githubusercontent.com/ByErenOzer/Tuberkloz_Tespiti/main/image%20copy%202.png" width="28%">
 </p>
 
+<h3>🏆 SCI Q1 Medical Research Publication: Enhancing multi-class skin lesion diagnosis through ensemble learning of CNN and transformer architectures</h3>  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SwagatSBhuyan/Skin-Cancer-Classification-Using-CNN-Deep-Learning-Algorithm/master/category_samples.png" width="80%">
+</p>
+<p align="center">
+  Published in <strong>Engineering Science and Technology, an International Journal (JESTECH)</strong> (Elsevier, SCI Q1). This research introduces a hybrid deep learning framework combining Convolutional Neural Networks (CNNs) for localized feature extraction and Vision Transformers (ViTs) for global contextual modeling. The ensemble model significantly enhances multi-class skin lesion classification accuracy on dermoscopic images, assisting dermatologists in early-stage melanoma diagnosis.
+</p>
+<p align="center">
+  <strong>Paper Link:</strong> <a href="https://www.sciencedirect.com/science/article/pii/S2215098625002009?via%3Dihub" target="_blank">ScienceDirect</a> | 
+  <strong>DOI / PII:</strong> <a href="https://doi.org/10.1016/j.jestch.2025.102009" target="_blank">10.1016/j.jestch.2025.102009 (S2215-0986(25)00200-9)</a>
+</p>
+
 <h3>🧰️ Medical Research Experience: Few-Shot Cascade R-CNN for Medical Object Detection & Segmentation</h3>  
 <p align="center">
   <img src="https://raw.githubusercontent.com/AISoltani/Mask_RCNN_ResNet_101_50/refs/heads/main/Few-shot.gif" width="78%">
