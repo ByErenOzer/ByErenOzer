@@ -112,17 +112,17 @@
   <img src="https://raw.githubusercontent.com/ByErenOzer/ByErenOzer/main/image_copy_6.png" width="80%">
 </p>
 
-<h3>👁️ Diyabetik Retinopati Evre Sınıflandırma Projesi (EfficientNet-B5 & Ordinal Regression)</h3>
+<h3>👁️ Diabetic Retinopathy Grade Classification Project (EfficientNet-B5 & Ordinal Regression)</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/ByErenOzer/Diyabetik_Retinopati/main/assets/dataset_examples.png" width="80%">
 </p>
 
-<h3>🧠 Beyin BT Kanama/İnme Tespiti - 3D EfficientNet Pipeline</h3>
+<h3>🧠 3D Brain CT Scan Hemorrhage/Stroke Detection - 3D EfficientNet Pipeline</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/ByErenOzer/ByErenOzer/main/Brain.gif" width="80%">
 </p>
 
-<h3>🧰️ Chest Radiograph (CXR) Tuberculosis Bounding Box Localization (YOLOv10)</h3>
+<h3>🧰️ Chest Radiograph (CXR) Tuberculosis Bounding Box Localization (v26)</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/ByErenOzer/ByErenOzer/main/tuberculosis_detection.png" width="80%">
 </p>
@@ -139,7 +139,7 @@
   <img src="https://raw.githubusercontent.com/ByErenOzer/Image-based-QR-Codes-Project/main/Hagia%20Sophia2.png" width="45%">
 </p>
 
-<h3>🔍 NuExtract-3 OCR: Sağlık Raporu T.C. Kimlik No Çıkarma ve Model Benchmark Projesi</h3>
+<h3>🔍 NuExtract-3 OCR: Medical Report ID Number Extraction & Model Benchmark Project</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/ByErenOzer/ByErenOzer/main/ocr2.gif" width="80%">
 </p>
