@@ -113,29 +113,34 @@
   <img src="https://raw.githubusercontent.com/ByErenOzer/ByErenOzer/main/image_copy_6.png" width="80%">
 </p>
 
-<h3>🔍 NuExtract-3 OCR: Sağlık Raporu T.C. Kimlik No Çıkarma ve Model Benchmark Projesi — <a href="https://github.com/ByErenOzer/Nuextract3_OCR" target="_blank">Repository</a></h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ByErenOzer/ByErenOzer/main/ocr_diagram.png" width="80%">
-</p>
-
-<h3>👁️ Diyabetik Retinopati Evre Sınıflandırma Projesi (EfficientNet-B5 & Ordinal Regression) — <a href="https://github.com/ByErenOzer/Diyabetik_Retinopati" target="_blank">Repository</a></h3>
+<h3>👁️ Diyabetik Retinopati Evre Sınıflandırma Projesi (EfficientNet-B5 & Ordinal Regression)</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/ByErenOzer/Diyabetik_Retinopati/main/assets/dataset_examples.png" width="80%">
 </p>
 
-<h3>🧠 Beyin BT Kanama/İnme Tespiti - 3D EfficientNet Pipeline — <a href="https://github.com/ByErenOzer/3D_BeyinBT" target="_blank">Repository</a></h3>
+<h3>🧠 Beyin BT Kanama/İnme Tespiti - 3D EfficientNet Pipeline</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/ByErenOzer/ByErenOzer/main/inme.jpg" width="80%">
 </p>
 
-<h3>🧰️ Chest Radiograph (CXR) Tuberculosis Bounding Box Localization (YOLOv10) — <a href="https://github.com/ByErenOzer/Tuberkloz_Tespiti" target="_blank">Repository</a></h3>
+<h3>🧰️ Chest Radiograph (CXR) Tuberculosis Bounding Box Localization (YOLOv10)</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/ByErenOzer/ByErenOzer/main/tuberculosis_detection.png" width="80%">
 </p>
 
-<h3>🎨 Creative AI: Diffusion-Based Image-Based QR Codes Project (Stable Diffusion) — <a href="https://github.com/ByErenOzer/Image-based-QR-Codes-Project" target="_blank">Repository</a></h3>
+<h3>🤖 PDF and Image Translation Project (EN ➔ TR) with Text Layout Preservation & Multimodal LLM</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ByErenOzer/ByErenOzer/main/translate_diagram.png" width="80%">
+</p>
+
+<h3>🎨 Creative AI: Diffusion-Based Image-Based QR Codes Project (Stable Diffusion)</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/ByErenOzer/Image-based-QR-Codes-Project/main/AI%20in%20Robotics.png" width="45%">
   &nbsp; &nbsp;
   <img src="https://raw.githubusercontent.com/ByErenOzer/Image-based-QR-Codes-Project/main/Hagia%20Sophia2.png" width="45%">
+</p>
+
+<h3>🔍 NuExtract-3 OCR: Sağlık Raporu T.C. Kimlik No Çıkarma ve Model Benchmark Projesi</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ByErenOzer/ByErenOzer/main/nuextract_ocr_difficult.png" width="80%">
 </p>
