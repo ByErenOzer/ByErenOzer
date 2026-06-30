@@ -2,7 +2,6 @@
 🔭 Building High-Performance Computer Vision and Deep Learning Systems <br>
 🤝 Open to Collaborations on Advanced AI and Medical Image Analysis Research <br>
 🌱 Actively Exploring State-of-the-Art Deep Learning Models and Transformer-Based Segmentation <br>
-🤖 Engineering Local LLM Deployments, RAG Systems, and Intelligent AI Agents <br>
 </h2>
 <h1>💫 About Me:</h1>
 
@@ -120,7 +119,7 @@
 
 <h3>🧠 Beyin BT Kanama/İnme Tespiti - 3D EfficientNet Pipeline</h3>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ByErenOzer/ByErenOzer/main/inme.jpg" width="80%">
+  <img src="https://raw.githubusercontent.com/ByErenOzer/ByErenOzer/main/Brain.gif" width="80%">
 </p>
 
 <h3>🧰️ Chest Radiograph (CXR) Tuberculosis Bounding Box Localization (YOLOv10)</h3>
@@ -142,5 +141,5 @@
 
 <h3>🔍 NuExtract-3 OCR: Sağlık Raporu T.C. Kimlik No Çıkarma ve Model Benchmark Projesi</h3>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ByErenOzer/ByErenOzer/main/nuextract_ocr_difficult.png" width="80%">
+  <img src="https://raw.githubusercontent.com/ByErenOzer/ByErenOzer/main/ocr2.gif" width="80%">
 </p>
