@@ -139,6 +139,11 @@
   <img src="https://raw.githubusercontent.com/ByErenOzer/Image-based-QR-Codes-Project/main/Hagia%20Sophia2.png" width="45%">
 </p>
 
+<h3>📊 Twitter Scraping & Sentiment Analysis Pipeline using Fine-Tuned BERT</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ByErenOzer/ByErenOzer/main/emotions.gif" width="80%">
+</p>
+
 <h3>🔍 NuExtract-3 OCR: Medical Report ID Number Extraction & Model Benchmark Project</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/ByErenOzer/ByErenOzer/main/ocr2.gif" width="80%">
