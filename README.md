@@ -108,70 +108,14 @@
   </a>
 </div>
 
-<h3>🧰️ Medical Research Experience: Real-Time Chest Radiograph (CXR) Tuberculosis Bounding Box Localization (YOLO26x)</h3>  
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ByErenOzer/Tuberkloz_Tespiti/main/image%20copy%205.png" width="80%">
-</p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ByErenOzer/Tuberkloz_Tespiti/main/image.png" width="28%">
-  &nbsp; &nbsp;
-  <img src="https://raw.githubusercontent.com/ByErenOzer/Tuberkloz_Tespiti/main/image%20copy.png" width="28%">
-  &nbsp; &nbsp;
-  <img src="https://raw.githubusercontent.com/ByErenOzer/Tuberkloz_Tespiti/main/image%20copy%202.png" width="28%">
-</p>
-
 <h3>🏆 SCI Q1 Medical Research Publication: Enhancing multi-class skin lesion diagnosis through ensemble learning of CNN and transformer architectures <br/> (Paper Link: <a href="https://www.sciencedirect.com/science/article/pii/S2215098625002009?via%3Dihub" target="_blank">ScienceDirect</a> | DOI: <a href="https://doi.org/10.1016/j.jestch.2025.102009" target="_blank">10.1016/j.jestch.2025.102009</a>)</h3>  
 <p align="center">
   <img src="https://raw.githubusercontent.com/ByErenOzer/ByErenOzer/main/image_copy_6.png" width="80%">
 </p>
 
-<h3>🧰️ Medical Research Experience: Few-Shot Cascade R-CNN for Medical Object Detection & Segmentation</h3>  
+<h3>🎨 Creative AI: Diffusion-Based Image-Based QR Codes Project (Stable Diffusion) — <a href="https://github.com/ByErenOzer/Image-based-QR-Codes-Project" target="_blank">Repository</a></h3>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AISoltani/Mask_RCNN_ResNet_101_50/refs/heads/main/Few-shot.gif" width="78%">
-</p>
-
-<h3>🧰️ 2D-3D Super-Resolution–Driven Detection of Medical Targets </h3>  
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AISoltani/labelbox/refs/heads/master/MedicalSR.png" width="78%" height="400" >
-</p>
-
-<h3>🧰️ Multi Pose-Side-Shape Estimation: Multiple Body Pose, Point & Shape, Estimation (MoveNet, PoseNet, MediaPipe) </h3>  
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AISoltani/AISoltani/main/.github/workflows/pose.png" width="90%">
-</p>
-
-<h3>🧰️ AI for Health & Wellness: AI Fitness Fat-Loss Muscle Detection & Segmentation</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AISoltani/AISoltani/main/.github/workflows/1.gif" width="27%" />
-  &nbsp; &nbsp; &nbsp; &nbsp;
-  <img src="https://raw.githubusercontent.com/AISoltani/AISoltani/main/.github/workflows/2.gif" width="27%" />
-  &nbsp; &nbsp; &nbsp; &nbsp;
-  <img src="https://raw.githubusercontent.com/AISoltani/AISoltani/main/.github/workflows/33.gif" width="27%" />
-</p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AISoltani/labelbox/refs/heads/master/Muscle.png" width="88%" />
-</p>
-
-<h3>🧰️ Hybrid Approaches: Few-Shot Learning for Fashion Recommendation System </h3>  
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AISoltani/AISoltani/main/.github/workflows/ScreenShot_20231103191154.png" width="88%">
-</p>
-
-<h3>🧰️ YOLOv11-EdgeSuite: Universal Mobile Vision Toolkit Using YOLOv11 Models for Detection & Segmentation Tasks on Smart Phone </h3>  
-<p align="center">
-    <img src="https://raw.githubusercontent.com/AISoltani/Yolov11-Android-Tool-Kotlin/refs/heads/main/SCR1.jpg" width="27%">
-    &nbsp; &nbsp; &nbsp; &nbsp;
-    <img src="https://raw.githubusercontent.com/AISoltani/Yolov11-Android-Tool-Kotlin/refs/heads/main/SCR2.jpg" width="27%">
-    &nbsp; &nbsp; &nbsp; &nbsp;
-    <img src="https://raw.githubusercontent.com/AISoltani/Yolov11-Android-Tool-Kotlin/refs/heads/main/SRC3.jpg" width="27%">
-</p>
-
-<h3>🧰️ Few-Shot Object Density HeatMap Generator </h3>  
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AISoltani/labelbox/refs/heads/master/HeatMap.png" width="78%" height="400" />
-</p>
-
-<h3>🧰️ Real-Time Colormap-Invariant Thermal Object Detection with a Hybrid YOLO–Transformer </h3>  
-<p align="center">
-  <img src="https://github.com/AISoltani/labelbox/blob/master/Thermal-DT.gif?raw=true" width="78%" >
+  <img src="https://raw.githubusercontent.com/ByErenOzer/Image-based-QR-Codes-Project/main/AI%20in%20Robotics.png" width="45%">
+  &nbsp; &nbsp;
+  <img src="https://raw.githubusercontent.com/ByErenOzer/Image-based-QR-Codes-Project/main/Hagia%20Sophia2.png" width="45%">
 </p>
